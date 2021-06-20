@@ -11,7 +11,7 @@ MODULE 18 - Unsupervised Machine Learning and Cryptocurrencies
 
 ## SUMMARY
 
-Deliverable 1: Preprocessing the Data for PCA ([Image 1.1](Images/1_1.png)), ([Image 1.2](Images/1_2.png)), ([Image 1.3](Images/1_3.png))
-Deliverable 2: Reducing Data Dimensions Using PCA ([Image 2](Images/2_1.png))
-Deliverable 3: Clustering Cryptocurrencies Using K-means ([Image 3.1](Images/3_1.png)), ([Image 3.2](Images/3_2.png))
-Deliverable 4: Visualizing Cryptocurrencies Results ([Image 4.1](Images/4_1.png)), ([Image 4.2](Images/4_2.png))
+  - Deliverable 1: Preprocessing the Data for PCA ([Image 1.1](Images/1_1.png)), ([Image 1.2](Images/1_2.png)), ([Image 1.3](Images/1_3.png))
+  - Deliverable 2: Reducing Data Dimensions Using PCA ([Image 2](Images/2_1.png))
+  - Deliverable 3: Clustering Cryptocurrencies Using K-means ([Image 3.1](Images/3_1.png)), ([Image 3.2](Images/3_2.png))
+  - Deliverable 4: Visualizing Cryptocurrencies Results ([Image 4.1](Images/4_1.png)), ([Image 4.2](Images/4_2.png))
